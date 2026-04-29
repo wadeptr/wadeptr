@@ -1,4 +1,4 @@
-## Hi, I'm Brock | @wadeptr 👋
+## Hi, I'm Brock 👋
 
 <!--
 **wadeptr/wadeptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
