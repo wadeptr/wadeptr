@@ -1,5 +1,10 @@
 # Hi, I'm Brock 👋
 
+Currently hacking on:
+- [llmtokenlab](https://github.com/wadeptr/llmtokenlab)
+- [memvox](https://github.com/memvox/memvox)
+
+
 <!--
 **wadeptr/wadeptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
