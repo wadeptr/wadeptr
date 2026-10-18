@@ -1,7 +1,7 @@
 # Hi, I'm Brock 👋
 
 Currently hacking on:
-- [llmtokenlab](https://github.com/wadeptr/llmtokenlab)
+- [tokeval](https://github.com/wadeptr/tokeval)
 - [memvox](https://github.com/memvox/memvox)
 
 
