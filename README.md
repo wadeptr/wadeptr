@@ -1,7 +1,7 @@
 # Hi, I'm Brock 👋
 
 Currently hacking on:
-- [tokeval](https://github.com/wadeptr/tokeval)
+- [tokevals](https://github.com/tokevals)
 - [memvox](https://github.com/memvox/memvox)
 
 
